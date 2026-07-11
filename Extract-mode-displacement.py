@@ -1,10 +1,12 @@
+#TO RUN THIS PROGRAM YOU NEED A GAUSSIAN LOG FILE CONTAING FREQUENCIES AND NORMAL MODE COORDINATES
+
 import math
-#file_name= input("Enter the file name\n")
+file_name= input("Enter the file name\n")
 target_freq=float(input("Enter the frequency\n"))
 atom1=int(input("Enter the atom number 1\n"))
 atom2=int(input("Enter the atom number 2\n"))
 
-with open("W9_D2DDD-aVTZ.log",'r')as f:
+with open(file_name,'r')as f:
     lines=f.readlines()
 
 
