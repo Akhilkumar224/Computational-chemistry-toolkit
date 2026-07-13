@@ -1,5 +1,6 @@
 #For any quries Contact: kumarakhil224@gmail.com
 #TO RUN THIS PROGRAM YOU NEED A GAUSSIAN LOG FILE CONTAING FREQUENCIES AND NORMAL MODE COORDINATES
+#Note that enter the atom number in ascending order
 
 import math
 file_name= input("Enter the file name\n")
