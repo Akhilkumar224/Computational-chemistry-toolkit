@@ -1,3 +1,7 @@
+#Automatically detects all .gjf files in the current working directory.
+#Executes Gaussian jobs sequentially using g16. 
+#Genetrates Summary Report
+
 import os
 import subprocess
 import time
