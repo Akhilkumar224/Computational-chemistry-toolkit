@@ -1,3 +1,4 @@
+#For any queries Contact : kumarakhil224@gmail.com
 #Automatically detects all .gjf files in the current working directory.
 #Executes Gaussian jobs sequentially using g16. 
 #Genetrates Summary Report
